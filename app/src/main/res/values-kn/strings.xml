@@ -1,0 +1,39 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">ಕಾವ್ಯ ಕಣಜ</string>
+    <string name="app_tagline">ಕನ್ನಡ ಕಾವ್ಯದ ಭಂಡಾರ</string>
+
+    <!-- Home Screen -->
+    <string name="search_hint">ಕವಿತೆ ಅಥವಾ ಕವಿಯನ್ನು ಹುಡುಕಿ…</string>
+    <string name="daily_poem">✨ ಇಂದಿನ ಕವಿತೆ</string>
+    <string name="all_poems">ಎಲ್ಲಾ ಕವಿತೆಗಳು</string>
+    <string name="no_poems_found">ಕವಿತೆ ಸಿಗಲಿಲ್ಲ. ಬೇರೆ ಶೋಧ ಮಾಡಿ.</string>
+
+    <!-- Poem Detail -->
+    <string name="explain">ವಿವರಿಸಿ</string>
+    <string name="play_audio">ಆಡಿಯೋ ಪ್ಲೇ</string>
+    <string name="stop">ನಿಲ್ಲಿಸಿ</string>
+    <string name="tap_word_hint">ಅರ್ಥ ತಿಳಿಯಲು ಯಾವುದೇ ಪದ ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+
+    <!-- Navigation -->
+    <string name="favorites">ಮೆಚ್ಚಿನ ಕವಿತೆಗಳು</string>
+    <string name="history">ಇತ್ತೀಚೆಗೆ ನೋಡಿದ</string>
+    <string name="back">ಹಿಂದೆ</string>
+
+    <!-- Empty States -->
+    <string name="no_favorites">ಇನ್ನೂ ಮೆಚ್ಚಿನ ಕವಿತೆಗಳಿಲ್ಲ. ❤️ ಒತ್ತಿ ಉಳಿಸಿ!</string>
+    <string name="no_history">ನೀವು ಇನ್ನೂ ಯಾವ ಕವಿತೆಯನ್ನೂ ನೋಡಿಲ್ಲ.</string>
+
+    <!-- Errors -->
+    <string name="error_no_internet">ಇಂಟರ್ನೆಟ್ ಇಲ್ಲ. ನಿಮ್ಮ ನೆಟ್‌ವರ್ಕ್ ಪರಿಶೀಲಿಸಿ.</string>
+    <string name="error_api">ತಪ್ಪಾಗಿದೆ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="error_tts_not_supported">ಈ ಸಾಧನದಲ್ಲಿ ಆಯ್ಕೆ ಮಾಡಿದ ಭಾಷೆಯಲ್ಲಿ ಧ್ವನಿ ಬೆಂಬಲವಿಲ್ಲ.</string>
+
+    <!-- Explanation Sections -->
+    <string name="section_meaning">ಸರಳ ಅರ್ಥ</string>
+    <string name="section_lines">ಸಾಲು ಸಾಲಿನ ವಿವರಣೆ</string>
+    <string name="section_words">ಪದಗಳ ಅರ್ಥ</string>
+    <string name="section_theme">ವಿಷಯ</string>
+    <string name="section_summary">ಸಾರಾಂಶ</string>
+    <string name="section_story">ಕಥೆ</string>
+</resources>

@@ -1,0 +1,39 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">Kavya Kanaja</string>
+    <string name="app_tagline">ಕಾವ್ಯ ಕಣಜ · Kannada Poetry</string>
+
+    <!-- Home Screen -->
+    <string name="search_hint">Search poems or poets…</string>
+    <string name="daily_poem">✨ Poem of the Day</string>
+    <string name="all_poems">All Poems</string>
+    <string name="no_poems_found">No poems found. Try a different search.</string>
+
+    <!-- Poem Detail -->
+    <string name="explain">Explain</string>
+    <string name="play_audio">Play Audio</string>
+    <string name="stop">Stop</string>
+    <string name="tap_word_hint">Tap any word to see its meaning</string>
+
+    <!-- Navigation -->
+    <string name="favorites">Favorites</string>
+    <string name="history">Recently Viewed</string>
+    <string name="back">Back</string>
+
+    <!-- Empty States -->
+    <string name="no_favorites">No favorites yet. Tap ❤️ on a poem to save it!</string>
+    <string name="no_history">You haven\'t viewed any poems yet.</string>
+
+    <!-- Errors -->
+    <string name="error_no_internet">No internet connection. Please check your network.</string>
+    <string name="error_api">Something went wrong. Please try again.</string>
+    <string name="error_tts_not_supported">Text-to-Speech is not supported in your selected language on this device.</string>
+
+    <!-- Explanation Sections -->
+    <string name="section_meaning">Simple Meaning</string>
+    <string name="section_lines">Line by Line</string>
+    <string name="section_words">Word Meanings</string>
+    <string name="section_theme">Theme</string>
+    <string name="section_summary">Summary</string>
+    <string name="section_story">Story</string>
+</resources>
